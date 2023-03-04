@@ -6,10 +6,10 @@
 
 ## I'm a Developer,UI Designer and Digital Marketer!!
 
-- 🔭 I just launched my first Youtube Channel: [Code With Noob!][course]!
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and contribute to creative community
 
 ### Connect with me:
