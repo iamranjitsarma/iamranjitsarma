@@ -7,9 +7,9 @@
 ## I'm a Developer,UI Designer and Digital Marketer!!
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🤝 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Data Engineering and AI
+- 🤝 I’m looking to collaborate with other creators
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and contribute to creative community
 
 ### Connect with me:
