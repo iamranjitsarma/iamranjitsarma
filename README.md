@@ -55,14 +55,6 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 
 ---
 
-## 🏆 Achievements
-
-- Winner of Sweden National Quiz competition (North East Zone).
-- Received multiple spot awards and Employee of the Month accolades.
-- Created a creative community with 40k+ members: [Creative Zone India](#).
-
----
-
 ## 📚 Professional Experience
 
 ### Sr. Software Engineer – TrieDatum Inc
@@ -114,6 +106,13 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 - Full Stack Development: 360digitmg
 - Multiple certifications from Udemy and clients such as Alexion, Bank of America, Truist
 
+---
+
+## 🏆 Achievements
+
+- Winner of Sweden National Quiz competition (North East Zone).
+- Received multiple spot awards and Employee of the Month accolades.
+- Created a creative community with 40k+ members: [Creative Zone India](#).
 ---
 
 ## 📢 Let's Connect
