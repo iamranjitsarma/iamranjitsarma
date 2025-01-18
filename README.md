@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 - **Role:** Senior Software Engineer
 - **Location:** Guwahati, Assam
 - **Contact:** 8638444514 | [ranjitsarma345@gmail.com](mailto:ranjitsarma345@gmail.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [linkedin.com/in/ranjit-sarma](https://linkedin.com/in/ranjit-sarma)
 - **Objective:** Results-driven engineer with expertise in JavaScript frameworks, seeking to leverage my skills and leadership capabilities in a dynamic team.
 
 ---
