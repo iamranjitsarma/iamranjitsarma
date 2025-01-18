@@ -26,7 +26,12 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 - AWS, Spark, Airflow, DBT, Glue, PySpark
 
 ### Domains:
-- Mobile Application Development, Front-End Development, Back-End Development, System Design, Product Architecture, Data Engineering
+- Mobile Application Development,
+- Front-End Development,
+- Back-End Development,
+- System Design,
+- Product Architecture,
+- Data Engineering
 
 ### Tools & Testing Frameworks:
 - Jasmine, Jest, GitHub, Selenium, Jenkins, Ansible
