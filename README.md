@@ -120,6 +120,5 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 I'm always open to collaborations and discussions. Feel free to reach out!
 
 - **Email:** [ranjitsarma345@gmail.com](mailto:ranjitsarma345@gmail.com)
-- **Phone:** 8638444514
 - **LinkedIn:** [linkedin.com/in/ranjit-sarma](https://linkedin.com/in/ranjit-sarma)
 
