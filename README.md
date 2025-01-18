@@ -59,32 +59,32 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 
 ### Sr. Software Engineer – TrieDatum Inc
 **09-01-2024 to Present**
-•	Leading the development of scalable software solutions for enterprise clients.
-•	Enhancing application performance by implementing optimized algorithms and design patterns.
-•	Collaborating with cross-functional teams to deliver high-quality software products.
-•	Building data pipelines for transformation and data quality checks.
-•	Create UI/UX mockups for a data-driven product.
-•	Create test plans and design documentation for the data pipelines.
+-	Leading the development of scalable software solutions for enterprise clients.
+-	Enhancing application performance by implementing optimized algorithms and design patterns.
+-	Collaborating with cross-functional teams to deliver high-quality software products.
+-	Building data pipelines for transformation and data quality checks.
+-	Create UI/UX mockups for a data-driven product.
+-	Create test plans and design documentation for the data pipelines.
 
 ### Sr. Software Engineer – Infosys Ltd
 **31-08-2023 to 08-01-2024**
-• Developed and launched product features such as Dynamic Artifact Framework.
-• Worked on cloud-native applications focusing on AWS and Kubernetes.
+- Developed and launched product features such as Dynamic Artifact Framework.
+- Worked on cloud-native applications focusing on AWS and Kubernetes.
 
 ### Sr. Software Engineer – Zaloni Technologies Pvt Ltd
 **01-12-2021 to 31-08-2023**
-•	Developed and launched new product features, enhancing user experience.
-•	Collaborated closely with product managers and designers to translate user requirements into technical solutions.
-•	Implemented RESTful APIs and integrated front-end components with back-end services for seamless functionality.
-•	Optimized application performance, reducing page load times.
+-	Developed and launched new product features, enhancing user experience.
+-	Collaborated closely with product managers and designers to translate user requirements into technical solutions.
+-	Implemented RESTful APIs and integrated front-end components with back-end services for seamless functionality.
+-	Optimized application performance, reducing page load times.
 
 ### Full Stack Developer – Avantika Innovations Pvt Ltd
 **02-01-2019 to 30-11-2021**
-•	Contributed to the architecture and development of a scalable e-governance platform, handling 1k transactions daily.
-•	Implemented responsive UI components using React, resulting in a 15% increase in mobile conversion rates.
-•	Designed and implemented RESTful APIs using Node.js and Express, supporting data retrieval and real-time updates.
-•	Played a key role in migrating a legacy system to microservices architecture, improving maintainability and scalability.
-•	Collaborated with QA team to identify and fix bugs, ensuring a stable and robust software product.
+-	Contributed to the architecture and development of a scalable e-governance platform, handling 1k transactions daily.
+-	Implemented responsive UI components using React, resulting in a 15% increase in mobile conversion rates.
+-	Designed and implemented RESTful APIs using Node.js and Express, supporting data retrieval and real-time updates.
+-	Played a key role in migrating a legacy system to microservices architecture, improving maintainability and scalability.
+-	Collaborated with QA team to identify and fix bugs, ensuring a stable and robust software product.
 
 ### Technical Support Engineer – TCS
 **22-09-2017 to 31-12-2018**
