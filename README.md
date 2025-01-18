@@ -1,112 +1,121 @@
-### Hi there, I'm Ranjit Sarma - aka [Noob Guy][website] 👋
+# Hi, I'm Ranjit Sarma 👋
 
-[![Website](https://img.shields.io/badge/website-Noob%20Guy-1DA1F2)](https://ranjitsarma.herokuapp.com)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Noob%20Guy-1DA1F2)](https://twitter.com/iamranjitsarma)
-[![HackerRank](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/iamranjitsarma)
-
-## I'm a Developer,UI Designer and Digital Marketer!!
-
-
-- 🌱 I’m currently learning Data Engineering and AI
-- 🤝 I’m looking to collaborate with other creators
-- 🥅 2025 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and contribute to creative community
-
-### Connect with me:
-
-[<img align="left" alt="ranjitsarma.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Noob Guy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Noob Guy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Noob Guy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Noob Guy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-<br />
-<br />
+Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in **product development** and **data engineering**. With over 7 years of experience, I take pride in solving complex problems, delivering impactful results, and leading cross-functional teams.
 
 ---
 
-### 📺 Latest YouTube Videos
+## 🌐 About Me
 
-<!-- YOUTUBE:START -->
-<!-- - [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw) -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCer6xKhDPRLX0ClmIXsPi-Q)
+- **Role:** Senior Software Engineer
+- **Location:** Guwahati, Assam
+- **Contact:** 8638444514 | [ranjitsarma345@gmail.com](mailto:ranjitsarma345@gmail.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Objective:** Results-driven engineer with expertise in JavaScript frameworks, seeking to leverage my skills and leadership capabilities in a dynamic team.
 
 ---
 
-### 📕 Latest Blog Posts
+## 🔧 Technical Skills
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65) -->
-<!-- BLOG-POST-LIST:END -->
+### Programming Languages & Frameworks:
+- JavaScript, Angular, React Native, Node.js, Java, Python, Hibernate, Spring Boot, CodeIgniter, Shell Script
 
-<!-- ➡️ [more blog posts...](https://codestackr.com) -->
+### Database Management:
+- MySQL, Hive, MongoDB, DynamoDB, Elastic Search, Snowflake
+
+### Cloud & Data Engineering Tools:
+- AWS, Spark, Airflow, DBT, Glue, PySpark
+
+### Domains:
+- Mobile Application Development, Front-End Development, Back-End Development, System Design, Product Architecture, Data Engineering
+
+### Tools & Testing Frameworks:
+- Jasmine, Jest, GitHub, Selenium, Jenkins, Ansible
 
 ---
 
-<!-- <details>
-  <summary>:zap: Recent GitHub Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
+## 🎨 Portfolio Highlights
 
-<!-- </details>
+### 🔄 **Data Engineering Pipelines**
+- Built and optimized scalable ETL pipelines using AWS Glue and PySpark, processing datasets of 38GB+.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### 🔧 **Product Development**
+- Designed and implemented scalable e-governance platforms handling 1k+ daily transactions.
+- Delivered RESTful APIs and integrated front-end components with back-end services.
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+### 🚀 **Cloud-Native Applications**
+- Migrated legacy applications to microservices architecture, improving performance and scalability.
 
-</details> -->
+### 🔒 **Secure & Reliable Systems**
+- Implemented HTTPS and secure configurations for web applications, prioritizing user security and trust.
 
-[website]: https://ranjitsarma.herokuapp.com
-[course]: https://www.youtube.com/channel/UCer6xKhDPRLX0ClmIXsPi-Q
-[twitter]: https://twitter.com/iamranjitsarma
-[youtube]: https://www.youtube.com/channel/UCer6xKhDPRLX0ClmIXsPi-Q
-[instagram]: https://instagram.com/iamranjitsarma
-[linkedin]: https://in.linkedin.com/in/ranjit-sarma-a4a371119
-[vscode]: https://code.visualstudio.com/download
-[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
-[CSS3]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[sass]: https://sass-lang.com/
-[javascript]: https://www.javascript.com/
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
-[sql]: https://www.mysql.com/
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/
-[git]: https://github.com/
-[github]: https://github.com/
-[terminal]: https://www.linux.org/
+---
+
+## 🏆 Achievements
+
+- Winner of Sweden National Quiz competition (North East Zone).
+- Received multiple spot awards and Employee of the Month accolades.
+- Created a creative community with 40k+ members: [Creative Zone India](#).
+
+---
+
+## 📚 Professional Experience
+
+### Sr. Software Engineer – TrieDatum Inc
+**09-01-2024 to Present**
+- Leading the development of scalable software solutions for enterprise clients.
+- Enhancing application performance by implementing optimized algorithms and design patterns.
+- Building data pipelines for transformation and data quality checks.
+
+### Sr. Software Engineer – Infosys Ltd
+**31-08-2023 to 08-01-2024**
+- Developed and deployed data engineering pipelines for real-time analytics.
+- Worked on cloud-native applications focusing on AWS and Kubernetes.
+
+### Sr. Software Engineer – Zaloni Technologies Pvt Ltd
+**01-12-2021 to 31-08-2023**
+- Launched new product features, enhancing user experience and reducing load times.
+
+### Full Stack Developer – Avantika Innovations Pvt Ltd
+**02-01-2019 to 30-11-2021**
+- Developed scalable e-governance platforms and responsive UI components.
+- Migrated systems to microservices architecture for improved maintainability.
+
+### Technical Support Engineer – TCS
+**22-09-2017 to 31-12-2018**
+- Provided L3 technical support for ITBA projects in the North East Region.
+
+---
+
+## 🎓 Education
+
+- **B.Tech in Computer Science**
+  - Gauhati University | CGPA: 8.36 | Graduation Year: 2017
+
+---
+
+## 📈 Projects
+
+- **E-Governance (EODB ASSAM):** E-governance portal onboarding 36 Assam Government departments.
+- **Arena:** Big data solution for end-to-end data governance, catalog, and monitoring tools.
+- **Dalmia Cements Travel App:** Designed and developed a travel app for dealers and customers.
+- **Lifecare/Zomeds:** Migrated a traditional app to microservices architecture, deploying with Kubernetes.
+
+---
+
+## 📚 Certifications
+
+- Java Certification: IIT Bombay
+- Angular Certification: IBM
+- Full Stack Development: 360digitmg
+- Multiple certifications from Udemy and clients such as Alexion, Bank of America, Truist
+
+---
+
+## 📢 Let's Connect
+
+I'm always open to collaborations and discussions. Feel free to reach out!
+
+- **Email:** [ranjitsarma345@gmail.com](mailto:ranjitsarma345@gmail.com)
+- **Phone:** 8638444514
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/ranjit-sarma)
 
