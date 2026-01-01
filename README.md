@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer / Technical Lead*
 
 ## ![Professional Experience](https://img.icons8.com/ios-filled/50/000000/briefcase.png) Professional Experience
 
-### Sr. Software Engineer – TrieDatum Inc
+### Technical Lead – TrieDatum Inc
 **09-01-2024 to Present**
 -	Leading the development of scalable software solutions for enterprise clients.
 -	Enhancing application performance by implementing optimized algorithms and design patterns.
