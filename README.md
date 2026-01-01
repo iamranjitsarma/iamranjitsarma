@@ -1,6 +1,6 @@
 # Hi, I'm Ranjit Sarma 👋
 
-Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in **product development** and **data engineering**. With over 8 years of experience, I take pride in solving complex problems, delivering impactful results, and leading cross-functional teams.
+Welcome to my GitHub profile! I'm a **Senior Software Engineer / Technical Lead** specializing in **product development** and **data engineering**. With over 8 years of experience, I take pride in solving complex problems, delivering impactful results, and leading cross-functional teams.
 
 ---
 
